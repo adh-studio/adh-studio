@@ -1,15 +1,22 @@
 # Hen ADH
 
-Développeur full-stack, data science et data engineering. En freelance à temps plein,
-depuis Antananarivo, entièrement à distance. Le fuseau couvre la journée de bureau
-européenne, donc les échanges se font en direct.
+**Le logiciel que votre métier attend.**
 
-Je prends le relais sur un chantier pendant que le recrutement se fait, je documente, et
-je transmets à la personne qui arrive. Missions cadrées de 1 500 à 8 000 EUR, chiffrées
-avant de commencer, livrées en 2 à 4 semaines.
+ADH construit des logiciels métier sur mesure, des chaînes de données et des
+automatisations. Depuis Antananarivo, entièrement à distance. Le fuseau couvre la journée
+de bureau européenne, donc les échanges se font en direct.
+
+Trois portes d'entrée, à prix ferme fixé avant de commencer :
+
+- **Application métier**, quand le logiciel du marché ne suffit plus et que les tableurs
+  ont atteint leur limite. 4 000 à 8 000 EUR, 3 à 4 semaines.
+- **Données et documents**, une chaîne qui lit, contrôle et écrit sans intervention, et
+  qui signale les cas douteux au lieu de les deviner. 2 500 à 5 000 EUR, 2 à 3 semaines.
+- **Reprise de code existant**, un code que plus personne n'ose toucher, remis sous tests
+  et rendu modifiable. 1 500 à 3 000 EUR, 1 à 2 semaines.
 
 Les dépôts ci-dessous sont publics pour une raison simple : vous pouvez juger le travail
-avant de me parler, et le faire relire par votre équipe technique.
+avant de nous parler, et le faire relire par votre équipe technique.
 
 ---
 
@@ -53,21 +60,23 @@ avant de me parler, et le faire relire par votre équipe technique.
 
 ---
 
-## Ce que je fais, et ce que je ne fais pas
+## Ce que nous faisons, et ce que nous ne faisons pas
 
-Je développe en **TypeScript, JavaScript, Python et C#**, côté web comme côté bureau,
-et je traite des données de la requête SQL au modèle entraîné.
+Nous développons en **TypeScript, JavaScript, Python, C# et .NET**, côté web comme côté
+bureau, et nous traitons des données de la requête SQL au modèle entraîné. Le langage
+suit le projet, pas l'inverse.
 
-Je ne prétends pas au mobile natif, au système embarqué ni au jeu vidéo. Quand un sujet
-sort de ce que je sais tenir, je le dis avant de commencer plutôt qu'au milieu.
+Pas de mobile natif, pas de système embarqué, pas de jeu vidéo. Quand un sujet sort de ce
+que nous savons tenir, nous le disons avant de commencer plutôt qu'au milieu.
 
-## Comment on travaille
+## Comment nous travaillons
 
-1. Un appel de trente minutes sur le chantier qui attend.
+1. Un appel de trente minutes sur ce qui bloque aujourd'hui.
 2. Un cadrage écrit : ce qui est fait, ce qui ne l'est pas, le prix ferme, la date.
 3. La construction, avec un point d'avancement par semaine.
-4. La remise : documentation en français et prise en main, pour que vous restiez autonome.
+4. La remise : le code, la documentation en français et une séance de prise en main.
 
-## Me joindre
+## Nous joindre
 
 [LinkedIn](https://www.linkedin.com/in/hen-adh) pour en parler.
+L'offre et les prix : [heniwizeup-dotcom.github.io](https://heniwizeup-dotcom.github.io/).
