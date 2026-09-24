@@ -1,4 +1,4 @@
-# Hen ADH
+# ADH
 
 **Le logiciel que votre métier attend.**
 
@@ -78,5 +78,5 @@ que nous savons tenir, nous le disons avant de commencer plutôt qu'au milieu.
 
 ## Nous joindre
 
-[LinkedIn](https://www.linkedin.com/in/hen-adh) pour en parler.
+[LinkedIn](https://www.linkedin.com/in/adh-studio) pour en parler.
 L'offre et les prix : [adh-studio.github.io](https://adh-studio.github.io/).
